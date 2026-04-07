@@ -1,0 +1,25 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Instacart",
+            "database": "instacart_analysis",
+            "username": "Ankapdf"
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Instacart_analysis",
+            "database": "instacart_analysis",
+            "username": "postgres",
+            "password": ""
+        }
+    ]
+}
